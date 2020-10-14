@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "testLiveReloading"
+    }
+  },
+  "defaultProject": "testLiveReloading",
+  "cli": {
+    "analytics": "43c06d64-51cc-4167-bde4-de7c316b1a20"
+  }
 }
